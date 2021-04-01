@@ -1,0 +1,33 @@
+[
+	{
+		"productName": "A baby mop",
+		"description":"It's never too early to teach your children about chores, as evidenced by this suit that lets your baby mop the house for you",
+		"price": "$29.99",
+		"image": "https://github.com/mishawali/assignment3-js/blob/main/img/baby-mop.jpg"
+	},
+	{
+		"productName": "A Cthulhu hat",
+		"description": "This balaclava has everything you need to brave the cold: coverage for the top of your head to keep heat from escaping, protection for your cheeks against the winter winds, and, of course, the terrifying tentacles of a mythical sea beast",
+		"price": "$8.90",
+		"image":"https://github.com/mishawali/assignment3-js/blob/main/img/cthulu-hat.jpg"
+	},
+	{
+		"productName": "Dancing with Cats",
+		"description": "If you truly love your pet, you'll do anything for them, or with them—including interpretive dance, according to this book.",
+		"price": "$13.22",
+		"image": "https://github.com/mishawali/assignment3-js/blob/main/img/dancing-with-cats.jpg"
+		
+	},
+	{
+		"productName": "A hand squirrel",
+		"description": "While it's all well and good to have a variety of puppets at your disposal, few things rival this strangely-realistic hand squirrel.",
+		"price": "$6.50",
+		"image": "https://github.com/mishawali/assignment3-js/blob/main/img/hand-squirrel.jpg"
+	},
+	{
+		"productName": "A Nicolas Cage sequin pillowcase",
+		"description": "The only thing better than a festive red sparkly pillowcase is one that morphs into Nicolas Cage's face with the satisfying swipe of your hand.",
+		"price": "$24.95",
+		"image": "https://github.com/mishawali/assignment3-js/blob/main/img/nicolas-cage-pillow.jpg"
+	}
+]
