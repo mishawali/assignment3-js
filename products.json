@@ -1,0 +1,37 @@
+[
+	{
+		"productName": "A baby mop",
+		"price": "29.99",
+		"description":"It's never too early to teach your children about chores, as evidenced by this suit that lets your baby mop the house for you",
+		"features": ["Material: Polyester", "Packages Included: 1 x pencil case", "Product Size:12.2 x 5.1 inches (31 x 13cm).", "The belly of the fish is designed with a small zipper,convenient and practical, carries a fashion badge to make it perfect and attractive", "It’s almost a real fish, novelty and unique design will surprise people around you,this must be a great gift for kids."],
+		"image": "https://github.com/mishawali/assignment3-js/blob/main/img/baby-mop.jpg"
+	},
+	{
+		"productName": "Toy Pizza Hat",
+		"price": "11.62",
+		"description": ".S. Toy Pizza Hats. Looks like pepperoni and cheese pizza. As seen at carnivals, parades, theme parties",
+		"features": ["Fun felt pizza novelty hats", "One size adult or tee", "Looks like pepperoni and cheese pizza", "Made of brightly colored felt"]
+		
+	},
+	{
+		"productName": "Nothing",
+		"price": "5.95",
+		"description": "Funny stocking stuffer gift",
+		"features": ["nothing"]
+		
+	},
+	{
+		"productName": "pigeon mask",
+		"price": "26.60",
+		"description": "Now you can become a bird of the city when you wear this pigeon mask. Once you slip this on you'll want to fly around some of the biggest metropolises while looking for some food scraps to chow down on. Just be sure to watch out for some cats once you wear this mask! - Mask",
+		"features": ["Wear this Pigeon Latex Full Head Mask to sit on statues or beg for bread by a park bench.", "It fits most adult heads, and it's so realistic your cat will think one of its bird victims has risen from the grave to exact revenge", "Buy a bunch of these Pigeon Latex Full Head Masks so you and your friends can form your own flock at the mall.", "Caution: may alarm your cats, Awesome conversation piece", "Quality construction, Be the life of the party"]
+		
+	},
+	{
+		"productName": "Inflatable pool bull",
+		"price": "107.05",
+		"description": "Tame the bull… if you can! bring the excitement of the rodeo right to your pool. Bull float offers endless fun and laughs while the outer ring ensures safety and balance. 5 heavy duty handles to hold on to.",
+		"features": ["Plastic", "Tame the Bull… if you can!", "Bring the excitement of the rodeo right to your pool", "5 heavy duty handles to hold on to", "98 inchs L x 77 inchs w x 32 inchsh, It is made of heavy-duty, 17.5-gauge PVC vinyl. Can support up to 220 pounds"]
+		
+	}
+]
